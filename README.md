@@ -11,3 +11,7 @@ Command prefix: $
 4. eventremove: Remove a specific event from the SQL database
 5. eventshow: Query from SQL database and show all recorded events
 6. help$: Show usage of the above commands
+
+#### data folder
+- 1.pkl was a trained tagger based on Brown Corpus from nltk
+- data.pickle contains a set list and dictionary required for the commands
